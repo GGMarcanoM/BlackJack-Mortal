@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\bin\Debug\BlackJack De La Muerte.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack De La Muerte.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack_De_La_Muerte.Inicio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack_De_La_Muerte.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack De La Muerte.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\bin\Debug\BlackJack De La Muerte.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\bin\Debug\BlackJack De La Muerte.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack De La Muerte.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\BlackJack De La Muerte\BlackJack De La Muerte\obj\Debug\BlackJack De La Muerte.pdb
